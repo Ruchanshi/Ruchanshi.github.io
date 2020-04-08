@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 //Name: Ruchanshi Desai
 //File name:app.js
 //ID: 100729822
@@ -5,7 +6,7 @@
 
 
 
-#!/usr/bin/env node
+
 
 /**
  * Module dependencies.
